@@ -4,8 +4,8 @@ export default {
   footer: (
     <footer>
       <small>
-        <time>{YEAR}</time> © Your Name.
-        <a href="/feed.xml">RSS</a>
+        <time>{YEAR}</time> © ScreenPin.
+        {/* <a href="/feed.xml">Privacy</a> */}
       </small>
       <style jsx>{`
         footer {
